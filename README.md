@@ -1,1 +1,1 @@
-# ChessBot-ChessBot-An-Intelligent-Robotic-Companion-For-Playing-Chess
+# ChessBot: An Intelligent Robotic Companion For Playing Chess
